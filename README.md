@@ -43,6 +43,13 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137068089-2d213ef2-d6b4-483c-a286-d23e7fef8857.PNG)
 
+6) A PyBer summary DataFrame is created.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137068322-3c065fc3-018e-40ef-9e45-160cd5a5c0dc.PNG)
+
+
+
+
 
 
 
