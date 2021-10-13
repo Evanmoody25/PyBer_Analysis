@@ -57,7 +57,35 @@ my work:
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137068632-f2688da4-39fb-486b-9694-189d3a7fd7f5.PNG)
 
+## Deliverable 2 requierments
 
+1) A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time.
+
+2) A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
+
+3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28.
+
+4) A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
+
+5) An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.
+
+## Deliverable 2
+
+1) A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137147577-fa3f915e-7be7-4f7f-85d8-050f81cd193d.PNG)
+
+
+![Capture](https://user-images.githubusercontent.com/89880015/137147905-a177e509-5782-4775-9b68-83d9138a14f1.PNG)
+
+3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28.
+
+
+2) A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
+
+4) A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
+
+5) An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.
 
 
 
