@@ -27,3 +27,7 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137067318-026c193e-cc42-43b4-b21c-3c892303fd7c.PNG)
 
+2) The total number of drivers for each city type is retrieved.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137067560-5c3aa259-b727-4bda-98d3-6af5d9d4f6d1.PNG)
+
