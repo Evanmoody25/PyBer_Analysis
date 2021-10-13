@@ -7,10 +7,23 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ## Requierments
 
-The total number of rides for each city type is retrieved. (5 pt)
-​The total number of drivers for each city type is retrieved. (5 pt)
-​The sum of the fares for each city type is retrieved. (5 pt)
-​The average fare per ride for each city type is calculated. (5 pt)
-The average fare per driver for each city type is calculated. (5 pt)
-A PyBer summary DataFrame is created. (5 pt)
-The PyBer summary DataFrame is formatted as shown in the example
+1) The total number of rides for each city type is retrieved.
+
+2) The total number of drivers for each city type is retrieved.
+
+3) The sum of the fares for each city type is retrieved.
+
+4) The average fare per ride for each city type is calculated.
+
+5) The average fare per driver for each city type is calculated.
+
+6) A PyBer summary DataFrame is created.
+
+7) The PyBer summary DataFrame is formatted as shown in the example.
+
+## Deliverable 1
+
+1) The total number of rides for each city type is retrieved.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137067318-026c193e-cc42-43b4-b21c-3c892303fd7c.PNG)
+
