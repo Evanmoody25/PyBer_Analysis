@@ -36,8 +36,13 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 ![Capture](https://user-images.githubusercontent.com/89880015/137067800-405e84b9-6b46-4585-b41c-45345397c435.PNG)
 
 4) The average fare per ride for each city type is calculated.
-5) 
+
 ![Capture](https://user-images.githubusercontent.com/89880015/137067932-2c433b06-5045-42ab-b958-e4908495ad80.PNG)
+
+5) The average fare per driver for each city type is calculated.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137068089-2d213ef2-d6b4-483c-a286-d23e7fef8857.PNG)
+
 
 
 
