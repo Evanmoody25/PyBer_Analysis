@@ -47,6 +47,11 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137068322-3c065fc3-018e-40ef-9e45-160cd5a5c0dc.PNG)
 
+7) The PyBer summary DataFrame is formatted as shown in the example.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137068486-0cd57027-a0e1-441f-9dee-54a92694e73d.PNG)
+
+
 
 
 
