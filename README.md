@@ -31,3 +31,8 @@ V. Isualize has given you and Omar a brand-new assignment. Using your Python ski
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137067560-5c3aa259-b727-4bda-98d3-6af5d9d4f6d1.PNG)
 
+3) The sum of the fares for each city type is retrieved.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137067726-fe20d92f-ff7e-4a0e-8752-c8e5a693a1e6.PNG)
+
+
