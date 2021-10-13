@@ -78,16 +78,32 @@ my work:
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137147905-a177e509-5782-4775-9b68-83d9138a14f1.PNG)
 
-3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28.
-
 
 2) A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare."
 
+![Capture](https://user-images.githubusercontent.com/89880015/137148623-57152514-d136-4356-b723-c9793cb5dc99.PNG)
+
+![Capture](https://user-images.githubusercontent.com/89880015/137148987-3f66cc4b-4b4f-4b73-aa4b-3958b3668813.PNG)
+
+
+
+3) A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137149299-8c69dcdc-afdf-49f2-9726-8b5ea7900dfd.PNG)
+
+
+
 4) A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week.
+
+![Capture](https://user-images.githubusercontent.com/89880015/137149607-c808decd-5feb-4a2a-9df5-9247c9f3afc4.PNG)
+
 
 5) An annotated chart showing the total fares by city type is created and saved to the "analysis" folder.
 
+![Capture](https://user-images.githubusercontent.com/89880015/137149975-945a1fba-9d43-4541-a08b-5734cc37737b.PNG)
 
+
+![Capture](https://user-images.githubusercontent.com/89880015/137150085-56dd4106-f5a1-4439-b34e-d20389e4ff72.PNG)
 
 
 
