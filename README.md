@@ -105,6 +105,27 @@ my work:
 
 ![Capture](https://user-images.githubusercontent.com/89880015/137150085-56dd4106-f5a1-4439-b34e-d20389e4ff72.PNG)
 
+##  Deliverable 3
+
+Purpose: To create a summary of company data for the company, PyBer. Academicaly, it can be said that the purpose of this challenge was to put into practice Python and Pandas to 
+create statistical models which give displays of what is going on with the data. Finding summary statistics is also relevant to this project. In a practical, real world sense, 
+we are trying to find trends within the data that may be keys to how PyBer as a company can be run more efficiently. 
+
+results: Rural fares are very low but relatively steady throughout the year when compared to urban and suburban fares. Their low fare numbers could likely be attributable
+to rural having a less densly populated area. Suburban is the same with higher fare numbers and so is urban. One area of interest is that fares for all categories drop off in 
+march and april. 
+
+Summary
+1) Further research must be done to see if buisness can be expanded into rural cities or if the low fares are just an part of the low population densities of these areas. 
+Some may want to jump at this opportunity but I feel that one reason rural is so low is outside of cities, areas are often far apart, sparsley populated, and the population
+has a dependence on their own cars which may mean that throwing more drivers into these areas may just mean sinking funds. 
+
+2) This may be why urban is high and consistently high. Having that population density is important but urban areas also means it is tricky for people to have their own cars
+as parking is hard to find and often expensive. Some people get enxiety when driving in congested urban environments. If there is somrhing that the company can change to reverse the drop in fares for march and april, i highly advise becoming a more prominent service in big cities. 
+
+3) in plain summary, rural had the lowest fares, suburban secong lowest, and urban highest. There is a drop off in march and april that needs to be looked into and I am 
+curious about expanding services into urban areas even more rather than investing in areas where personally owned cares become a viable alternative to PyBer. I must conclude, however, by saying that more research must be done to etablish a true cause and effect relationship in the data. This is mearly a glimpse at company data. 
+
 
 
 
